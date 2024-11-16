@@ -1,4 +1,4 @@
-#### Hi there 👋 I’m Arehone Charlotte Mudau, a passionate DevOps Engineer and a Software Developer with experience in cloud technologies, automation, and web application development.
+#### Hi there 👋 I’m Arehone Charlotte Mudau, a passionate DevOps Engineer and a Software Developer.
 
 💻 Skilled in Python, PHP, Laravel, Django, MySQL, HTML, CSS, JavaScript, and Azure DevOps, I thrive on solving complex challenges and building scalable solutions.
 
