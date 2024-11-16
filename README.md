@@ -6,6 +6,8 @@
 
 🌟 I love collaborating on innovative projects, from dynamic web apps to data-driven dashboards, and showcasing them through my portfolio.
 
+❤️ I love Data Sciences
+
 📍 Based in South Africa, I’m actively seeking to connect with like-minded professionals and contribute to impactful open-source projects.
 
 - 📫 How to reach me: https://www.linkedin.com/in/arehone-charlotte-mudau-75801221a/
